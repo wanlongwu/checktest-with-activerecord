@@ -1,0 +1,5 @@
+{
+  "name": "checktest-with-activerecord",
+  "private": true,
+  "dependencies": {}
+}
